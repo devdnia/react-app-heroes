@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Aplicación de React Héroes, Marvel y DC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta aplicación web muestra héroes de Marvel o DC en diferentes pantallas.
+
+Pantalla Héroes
+
+![Pantalla Marvel](./src/img/marvelScreen.png)
+
+Detalle del héroe
+
+![Pantalla Marvel](./src/img/detailHero.png)
 
 ## Available Scripts
 
