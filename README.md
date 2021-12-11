@@ -12,4 +12,4 @@ Detalle del héroe
 
 Búsqueda
 
-![Pantalla Marvel](./src/img/search.png)
+![Pantalla Búsqueda](./src/img/search.png)
