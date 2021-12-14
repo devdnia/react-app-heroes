@@ -2,14 +2,14 @@
 
 Esta aplicación web muestra héroes de Marvel o DC en diferentes pantallas.
 
-Pantalla Héroes
+Pantalla Héroes.
 
 ![Pantalla Marvel](./src/img/marvelScreen.png)
 
-Detalle del héroe
+Detalle del héroe.
 
 ![Pantalla Marvel](./src/img/detailHero.png)
 
-Búsqueda
+Búsqueda.
 
 ![Pantalla Búsqueda](./src/img/search.png)
