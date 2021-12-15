@@ -10,6 +10,3 @@ Detalle del héroe.
 
 ![Pantalla Marvel](./src/img/detailHero.png)
 
-Búsqueda.
-
-![Pantalla Búsqueda](./src/img/search.png)
