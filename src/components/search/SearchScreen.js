@@ -7,7 +7,6 @@ import { getHeroByName } from "../../selectors/getHeroByName";
 import { HeroCard } from "../hero/HeroCard";
 
 
-
 export const SearchScreen = () => {
 
     const navigate = useNavigate();
