@@ -1,4 +1,5 @@
 import { types } from '../types/types'
+
 // const state ={
 //     name: 'Ivan',
 //     logged: true
